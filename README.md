@@ -1,5 +1,7 @@
 # 🧠 Ultrasonic-Based Smart Dustbin for Contactless Waste Disposal 🗑️
 
+🔗 **[Tinkercad Simulation Project Link]()** 
+
 ## 📌 Table of Contents
 
 1. [🌍 Problem Statement](#problem-statement)
@@ -120,6 +122,8 @@ void loop() {
 
 ### 1. ✅ **System in Safe State**
 
+ > ![System in Safe State](https://github.com/user-attachments/assets/17b6a2a3-1216-4444-8d24-9fd8adbf9855)
+
 📷 **Screenshot Description:**
 
 * Capture the circuit in **idle mode** (i.e., when no object is in front of the ultrasonic sensor).
@@ -131,7 +135,9 @@ void loop() {
 
 ---
 
-### 2. 🚨 **Object Detected – Lid Opened (like Fire Detected)**
+### 2. 🚨 **Object Detected – Lid Opened **
+
+ > ![Object Detected – Lid Opened]()
 
 📷 **Screenshot Description:**
 
@@ -145,6 +151,8 @@ void loop() {
 ---
 
 ### 3. 💡 **TinkerCAD Full Circuit Layout**
+
+ > ![TinkerCAD Full Circuit Layout]()
 
 📷 **Screenshot Description:**
 
@@ -168,4 +176,10 @@ void loop() {
 ## 🤝 Acknowledgements
 
 Thanks to platforms like **TinkerCAD**, **Arduino**, and the open-source community for making learning electronics fun and accessible! 🙌
+
+---
+
+## 📎 Project Link
+
+🔗 **[Click here to run the TinkerCad Simulation]()** 
 
