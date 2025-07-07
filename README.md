@@ -1,6 +1,6 @@
 # 🧠 Ultrasonic-Based Smart Dustbin for Contactless Waste Disposal 🗑️
 
-🔗 **[Tinkercad Simulation Project Link]()** 
+🔗 **[Tinkercad Simulation Project Link](https://www.tinkercad.com/things/0dOlxZAcESE-ultrasonic-based-smart-dustbin-for-contactless-waste-disposal?sharecode=ohi79mMKWi574SMOwVU1XwAAYcXskGa6SxhZdhyfqls)** 
 
 ## 📌 Table of Contents
 
@@ -122,7 +122,7 @@ void loop() {
 
 ### 1. ✅ **System in Safe State**
 
- > ![System in Safe State](https://github.com/user-attachments/assets/17b6a2a3-1216-4444-8d24-9fd8adbf9855)
+ > ![System in Safe State](https://github.com/user-attachments/assets/e3765b84-1519-4bdb-9685-d2efcb60f494)
 
 📷 **Screenshot Description:**
 
@@ -137,7 +137,7 @@ void loop() {
 
 ### 2. 🚨 **Object Detected – Lid Opened **
 
- > ![Object Detected – Lid Opened]()
+ > ![Object Detected – Lid Opened](https://github.com/user-attachments/assets/1194ef50-3b63-4898-af62-454e7328d95d)
 
 📷 **Screenshot Description:**
 
@@ -152,7 +152,7 @@ void loop() {
 
 ### 3. 💡 **TinkerCAD Full Circuit Layout**
 
- > ![TinkerCAD Full Circuit Layout]()
+ > ![TinkerCAD Full Circuit Layout](https://github.com/user-attachments/assets/b1c31e10-eafb-4704-862d-b21440f2a42d)
 
 📷 **Screenshot Description:**
 
@@ -181,5 +181,5 @@ Thanks to platforms like **TinkerCAD**, **Arduino**, and the open-source communi
 
 ## 📎 Project Link
 
-🔗 **[Click here to run the TinkerCad Simulation]()** 
+🔗 **[Click here to run the TinkerCad Simulation](https://www.tinkercad.com/things/0dOlxZAcESE-ultrasonic-based-smart-dustbin-for-contactless-waste-disposal?sharecode=ohi79mMKWi574SMOwVU1XwAAYcXskGa6SxhZdhyfqls)** 
 
