@@ -131,8 +131,6 @@ void loop() {
 * The **servo motor should be at 0°** (closed position).
 * This shows that the system is working normally and waiting for interaction.
 
-> 📝 *Purpose:* To demonstrate that the dustbin remains closed when no user is nearby — a safe, idle state.
-
 ---
 
 ### 2. 🚨 **Object Detected – Lid Opened **
@@ -145,9 +143,6 @@ void loop() {
 * The LCD should display: `"Dustbin opened"`
 * The **servo should rotate to 90°**, showing that the lid is open.
 
-> 📝 *Purpose:* To simulate the sensor-based response — the system detects a person and responds by opening the lid.
-> This is equivalent to how a **buzzer/pump** might activate in a fire system.
-
 ---
 
 ### 3. 💡 **TinkerCAD Full Circuit Layout**
@@ -159,8 +154,6 @@ void loop() {
 * Capture the **entire circuit** layout in TinkerCAD clearly.
 * Ensure all components (Arduino, LCD, Potentiometer, Servo, Ultrasonic Sensor, Breadboard) are **visible and connected** properly.
 
-
-> 📝 *Purpose:* To showcase the hardware design and how all components are connected logically.
 
 ---
 
