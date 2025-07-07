@@ -52,13 +52,6 @@ This project presents a **Smart Dustbin** that opens and closes automatically ba
 
 ---
 
-## 🔌 Circuit Diagram
-
-🖼️ Add the following image (your circuit diagram):
-
-
-
----
 
 ## 💻 Code Explanation
 
@@ -123,7 +116,43 @@ void loop() {
 
 ---
 
-## 📸 Images
+## 📸 **Project Screenshots**
+
+### 1. ✅ **System in Safe State**
+
+📷 **Screenshot Description:**
+
+* Capture the circuit in **idle mode** (i.e., when no object is in front of the ultrasonic sensor).
+* The LCD should display: `"Dustbin closed"`
+* The **servo motor should be at 0°** (closed position).
+* This shows that the system is working normally and waiting for interaction.
+
+> 📝 *Purpose:* To demonstrate that the dustbin remains closed when no user is nearby — a safe, idle state.
+
+---
+
+### 2. 🚨 **Object Detected – Lid Opened (like Fire Detected)**
+
+📷 **Screenshot Description:**
+
+* Place a virtual hand (or object) **within 50 cm** of the ultrasonic sensor in TinkerCAD simulation.
+* The LCD should display: `"Dustbin opened"`
+* The **servo should rotate to 90°**, showing that the lid is open.
+
+> 📝 *Purpose:* To simulate the sensor-based response — the system detects a person and responds by opening the lid.
+> This is equivalent to how a **buzzer/pump** might activate in a fire system.
+
+---
+
+### 3. 💡 **TinkerCAD Full Circuit Layout**
+
+📷 **Screenshot Description:**
+
+* Capture the **entire circuit** layout in TinkerCAD clearly.
+* Ensure all components (Arduino, LCD, Potentiometer, Servo, Ultrasonic Sensor, Breadboard) are **visible and connected** properly.
+
+
+> 📝 *Purpose:* To showcase the hardware design and how all components are connected logically.
 
 ---
 
